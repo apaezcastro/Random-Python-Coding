@@ -12,3 +12,5 @@ print(1/6)
 print(1//6)
 print(6%1)
 print(6//1)
+
+print(600*400//2)
