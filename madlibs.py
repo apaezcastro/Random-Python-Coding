@@ -14,9 +14,12 @@ name = input("Write a relative's name: ")
 print ("\n")
 noun = input("Write a noun: ")
 print ("\n")
+liquid = input("Name a liquid: ")
+print ("\n")
 
 print("It was a " + adjective + """, cold November day.\n
 I woke up to the """ + adjective2 + " smell of " + bird + """ roasting\n
 in the """ + room + """ downstairs. I """ + pastverb + """ down the stairs to see \n
 if I could help """ + verb + " the dinner. My mom said, 'see if " + name + """ needs a \n 
-fresh """ + noun )
+fresh """ + noun + ".' So I carried a tray of classes full of " + liquid + """ into \n
+the """ )
