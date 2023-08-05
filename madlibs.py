@@ -18,7 +18,13 @@ liquid = input("Name a liquid: ")
 print ("\n")
 verbing = input("Name a verb ending in ing: ")
 print ("\n")
-bodys = input("Name a verb ending in ing: ")
+bodys = input("Name a body part in plural form: ")
+print ("\n")
+nouns = input("Name a plural noun: ")
+print ("\n")
+verbing2 = input("Name a verb ending in ing: ")
+print ("\n")
+ = input("Name a verb ending in ing: ")
 print ("\n")
 
 print("It was a " + adjective + """, cold November day.\n
@@ -27,4 +33,4 @@ in the """ + room + """ downstairs. I """ + pastverb + """ down the stairs to se
 if I could help """ + verb + " the dinner. My mom said, 'see if " + name + """ needs a \n 
 fresh """ + noun + ".' So I carried a tray of classes full of " + liquid + """ into \n
 the """ + verbing + """ room. When I got there, I  couldn't believe my \n
-""" + bodys + """! There were """)
+""" + bodys + """! There were """ + nouns + verbing2 +""" on the""" + noun2 + "!")
