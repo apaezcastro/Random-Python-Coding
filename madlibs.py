@@ -33,4 +33,4 @@ in the """ + room + """ downstairs. I """ + pastverb + """ down the stairs to se
 if I could help """ + verb + " the dinner. My mom said, 'see if " + name + """ needs a \n 
 fresh """ + noun + ".' So I carried a tray of glasses full of " + liquid + """ into \n
 the """ + verbing + """ room. When I got there, I  couldn't believe my \n
-""" + bodys + """! There were """ + nouns + verbing2 +""" on the """ + noun2 + "!")
+""" + bodys + """! There were """ + nouns + " " + verbing2 +""" on the """ + noun2 + "!")
