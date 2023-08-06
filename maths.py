@@ -19,3 +19,9 @@ a = 6 #varible math
 b = 6
 
 print(a * b)
+
+x = 2 * k # something about printing an even number
+
+k = int
+
+print(x)
