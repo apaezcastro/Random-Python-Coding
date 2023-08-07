@@ -20,8 +20,9 @@ b = 6
 
 print(a * b)
 
-x = 2 * k # something about printing an even number
+k = 3.2
+x = 2 * k #multipying an integer and variable
 
-k = int
 
 print(x)
+
