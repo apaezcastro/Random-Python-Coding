@@ -1,7 +1,8 @@
 # this is for learning if else syntax
 
-x = 1
+x = 2
 
 if x==1:
-
-    print("Hello")
+    print("Hello World")
+else:
+    print("not Hello World")
