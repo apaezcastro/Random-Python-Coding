@@ -25,4 +25,9 @@ x = 2 * k #multipying an integer and variable
 
 
 print(x)
+print("\n")
 
+i = 0               # this is a 
+while (i < 1000):     # while loop
+    i = i + 1       # that counts to 10
+    print (i)
