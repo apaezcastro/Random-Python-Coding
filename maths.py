@@ -28,6 +28,6 @@ print(x)
 print("\n")
 
 i = 0               # this is a 
-while (i < 1000):     # while loop
-    i = i + 1       # that counts to 1000
+while (i < 50):     # while loop
+    i = i + 1       # that counts to 50
     print (i)
