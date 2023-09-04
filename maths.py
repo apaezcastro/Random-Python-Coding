@@ -31,3 +31,41 @@ i = 0               # this is a
 while (i < 50):     # while loop
     i = i + 1       # that counts to 50
     print (i)
+
+#was using methods but never learned they we called methods
+print('\n')
+#functions
+age = '33'
+def whoami(): # this is a function without parameters
+    name = 'Andre' #local variable
+    age = 25
+    print('my name is ' + name + ' and I am ' +str(age) + ' years old.')
+whoami()
+
+def add_one_hundred(num):
+    print(num + 100)
+
+add_one_hundred(100)
+
+def add(x,y):
+    print(x + y)
+
+add(7,7)
+
+def multiply(x,y):
+        return x * y
+print(multiply(7,7))
+
+def square_root(x):
+     print(x ** .5)
+
+square_root(64)
+
+def nl():
+     print('\n')
+nl()
+#BOOLEAN 
+ 
+bool1 = True
+bool2 = 3*3 == 9
+print(bool1,bool2)
