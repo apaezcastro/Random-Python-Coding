@@ -9,7 +9,7 @@ print("\n")
 
 print(1%6) #understanding modulo operator
 print(1/6)
-print(1//6)
+print(1//7)
 print(6%1)
 print(6//1)
 
