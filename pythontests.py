@@ -28,3 +28,29 @@ ourmovies = movies + carla_movies
 print(ourmovies)
 print(movies + ['lol'])
 # also can do lists inside of lists 2d lists
+
+# for loops
+
+for x in movies:
+    print(x)
+
+nl()
+
+# advanced strings
+#link tuples, strings are imputible call elements of string with indexing
+
+sentence = '          This is a sentence    '
+print(sentence[:4])
+print(sentence.split()) #delimiter
+print(sentence.strip())
+
+print(type('a' in 'apple'))
+nl()
+
+movie = 'John Wick'
+print('my favorite movie is {}.' .format(movie)) #string format method
+print('my favorite movie is %s.' %movie) #percent format method
+print(f'my favorite movie is {movie}') #f string literal latest way
+nl()
+
+#DICTIONARIES - key/value pairs{}
