@@ -54,3 +54,18 @@ print(f'my favorite movie is {movie}') #f string literal latest way
 nl()
 
 #DICTIONARIES - key/value pairs{}
+drinks = {'white russian': 7, 'old fashianed': 10, 'oj': 6}
+print(drinks)
+
+employees = {'finance':['bob', 'linda', 'tina'], 'IT':['ross', 'tim']}
+
+employees['legal'] = ['Mr.Law'] #adds new key value pair
+print(employees) 
+
+employees.update({'Sales':['andy', 'ollie']}) #adds new key avlue pair
+print(employees)
+
+drinks['white russian'] = 8 #updates value
+print(drinks)
+
+print(drinks.get('white russian')) #getting value to print out
